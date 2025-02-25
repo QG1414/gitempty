@@ -4,3 +4,4 @@ print(3 + 2)
 
 a = "sdfg"
 b = "sd"
+c = "sd"
